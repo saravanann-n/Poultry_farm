@@ -20,6 +20,9 @@ Designed and implemented an IoT system to monitor and control temperature in pou
 ## 📷 Demo
 https://youtu.be/78_9z0kMhXE?si=Q41FSEKukeufBJhi
 
+## 📝 Publicatinon
+https://ijisae.org/index.php/IJISAE/article/view/7660
+
 ## 💻 Real-Time System Response and Hardware Integration Results
 ![image](https://github.com/user-attachments/assets/02129d87-0ea2-4f53-9361-04449b18c268)
 
